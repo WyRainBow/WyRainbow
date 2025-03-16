@@ -4,9 +4,9 @@
 - 🎯 Java 开发者，热爱编程
 - 🌱 目前在学习 **Spring Boot | MySQL | Redis**
 - 🔥 近期项目：
-  - 🚀 `项目A`：xxx
-  - 🔧 `项目B`：xxx
-- 📫 联系我：[你的邮箱](mailto:你的邮箱)
+  - 🚀 `项目A`：AI
+  - 🔧 `项目B`：GPT
+- 📫 联系我：[3658043236@qq.com](mailto:3658043236@qq.com)
 
 ---
 
@@ -20,6 +20,9 @@
 
 ## 📊 GitHub 统计
 ![WyRainbow's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyRainbow&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WyRainbow&layout=compact&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=WyRainbow&theme=dracula)
+
 
 ---
 
