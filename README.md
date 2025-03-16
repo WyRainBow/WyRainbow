@@ -30,8 +30,7 @@
 ## 📊 GitHub 统计
 ![WyRainbow's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyRainbow&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WyRainbow&layout=compact&theme=dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=WyRainbow&theme=dracula)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WyRainbow&theme=react-dark)
 
 ---
 
