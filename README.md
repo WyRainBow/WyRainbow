@@ -2,7 +2,7 @@
 
 ## 🚀 关于我
 - 🎯 Java 开发者，热爱编程
-- 🌱 目前在学习 **Spring Boot | MySQL | Redis**
+- 🌱 目前在学习 
 - 🔥 近期项目：
   - 🚀 `项目A`：AI
   - 🔧 `项目B`：GPT
