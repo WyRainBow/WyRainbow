@@ -1,4 +1,4 @@
-# 👋 你好我是 WyRainbow
+# 👋 你好我是 WyRainbBow
 
 ## 🚀 关于我
 - 🎯 Java 开发者，热爱编程
