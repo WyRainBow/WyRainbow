@@ -1,5 +1,10 @@
 # 👋 你好我是 WyRainBow
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=WyRainBow&show_icons=true&hide_border=true&theme=default" alt="WyRainBow's GitHub Stats" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyRainBow&layout=compact&hide_border=true&langs_count=10" alt="WyRainBow's Top Langs" width="37%" />
+</p>
+
 ## 🚀 关于我
 - 🎯 Go开发者
 - 🌱 目前在学习 
@@ -11,7 +16,7 @@
 ---
 
 ## 🚀 技能
-![technical ability](https://skillicons.dev/icons?i=golang,python,java,mysql,redis,rabbitmq,github,linux,docker&theme=light)
+![skills](https://skillicons.dev/icons?perline=14&i=bash,docker,git,github,githubactions,go,html,java,js,linux,md,mysql,nginx,nodejs,py,redis,sqlite,stackoverflow,ts,vercel,vscode,vue,workers&theme=light)
 
 
 ---
@@ -26,7 +31,6 @@
 ---
 
 ## 📊 GitHub 统计
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WyRainbow&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WyRainBow&theme=react-dark)
 
 ---
-
