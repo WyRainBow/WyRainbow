@@ -20,10 +20,6 @@
 | Project | Description | Stars |
 |:--|:--|:--|
 | [Resume-Agent](https://github.com/WyRainBow/Resume-Agent) | 一句话生成在线可修改的PDF | `141⭐` |
-| [My-Agent](https://github.com/WyRainBow/My-Agent) | 暂无描述 | `43⭐` |
-| [cocoKV](https://github.com/WyRainBow/cocoKV) | KV | `5⭐` |
-| [EasyNote](https://github.com/WyRainBow/EasyNote) | 安卓大作业 | `1⭐` |
-| [IELTS-WritePro](https://github.com/WyRainBow/IELTS-WritePro) | IELTS WritePro | `1⭐` |
 
 *Last updated on: 2026-05-26 19:33:04*
 
