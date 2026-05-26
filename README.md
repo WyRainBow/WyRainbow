@@ -1,9 +1,6 @@
 # 👋 你好我是 WyRainBow
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WyRainBow&show_icons=true&hide_border=true&theme=default" alt="WyRainBow's GitHub Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyRainBow&layout=compact&hide_border=true&langs_count=10" alt="WyRainBow's Top Langs" width="37%" />
-</p>
+
 
 ## 🚀 关于我
 - 🎯 Go开发者
