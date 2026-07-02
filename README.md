@@ -26,7 +26,7 @@
 
 ## 🏆 开源贡献 / Open Source Contributions
 
-参与贡献的开源项目（点击可跳转，徽章为实时 star 数）：
+参与贡献的开源项目：
 
 <p>
   <a href="https://github.com/apache/dubbo-admin"><img src="https://img.shields.io/github/stars/apache/dubbo-admin?style=for-the-badge&logo=apache&logoColor=white&label=apache%2Fdubbo-admin&color=D22128" alt="apache/dubbo-admin stars" /></a>
