@@ -40,42 +40,17 @@
 
 ## 💡 代表项目 / Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🤖 [Resume-Agent](https://github.com/WyRainBow/Resume-Agent) —— 一句话生成可编辑、可导出的专业简历
 
-### 🤖 [Resume-Agent](https://github.com/WyRainBow/Resume-Agent)
-
-> 一句话输入，生成可编辑、可导出的专业简历
-
-- ⭐ **223 Stars**
+- ⭐ **223 Stars** ｜ 🌐 [在线体验 Live Demo](https://resumegenkk.xyz)
 - 🧠 AI 一键生成 + 对话式改简历
 - 📄 LaTeX / HTML 多模板，支持中英文 PDF 导出
 - 🔍 JD 匹配诊断 + 质量评分
 - **Stack:** React · TypeScript · FastAPI · LaTeX
-- 🌐 [在线体验 Live Demo](https://resumegenkk.xyz)
 
 <a href="https://github.com/WyRainBow/Resume-Agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WyRainBow&repo=Resume-Agent&theme=react&hide_border=true" alt="Resume-Agent" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WyRainBow&repo=Resume-Agent&theme=react&hide_border=true" alt="Resume-Agent" />
 </a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🍯 [Bearme](https://github.com/WyRainBow/Bearme)
-
-> 个人项目实践
-
-- **Stack:** JavaScript
-- 持续迭代中 🚧
-
-<a href="https://github.com/WyRainBow/Bearme">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WyRainBow&repo=Bearme&theme=react&hide_border=true" alt="Bearme" />
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -102,12 +77,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WyRainBow&show_icons=true&theme=react&hide_border=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyRainBow&layout=compact&theme=react&hide_border=true&langs_count=8" alt="top langs" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WyRainBow&show_icons=true&theme=react&hide_border=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WyRainBow&layout=compact&theme=react&hide_border=true&langs_count=8" alt="top langs" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WyRainBow&theme=react&hide_border=true" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=WyRainBow&theme=algolia&no-frame=true&margin-w=10&column=7" alt="trophy" />
+<img src="https://streak-stats.demolab.com/?user=WyRainBow&theme=react&hide_border=true" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WyRainBow&theme=react-dark&hide_border=true" alt="activity graph" />
 
