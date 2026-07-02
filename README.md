@@ -36,8 +36,6 @@
 | [#1369](https://github.com/apache/dubbo-admin/pull/1369) | fix: 修复 counter bug | ✅ Merged |
 | [#1345](https://github.com/apache/dubbo-admin/pull/1345) | feat: 在本地缓存中实现 Counter | ✅ Merged |
 
-> 🌱 计划参与贡献：[amplifthq/opentag](https://github.com/amplifthq/opentag) —— 面向 Slack / GitHub 的开源 @agent 提及路由
-
 ---
 
 ## 💡 代表项目 / Featured Projects
