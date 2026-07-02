@@ -26,6 +26,13 @@
 
 ## 🏆 开源贡献 / Open Source Contributions
 
+参与贡献的开源项目（点击可跳转，徽章为实时 star 数）：
+
+<p>
+  <a href="https://github.com/apache/dubbo-admin"><img src="https://img.shields.io/github/stars/apache/dubbo-admin?style=for-the-badge&logo=apache&logoColor=white&label=apache%2Fdubbo-admin&color=D22128" alt="apache/dubbo-admin stars" /></a>
+  <a href="https://github.com/amplifthq/opentag"><img src="https://img.shields.io/github/stars/amplifthq/opentag?style=for-the-badge&logo=github&logoColor=white&label=amplifthq%2Fopentag&color=181717" alt="amplifthq/opentag stars" /></a>
+</p>
+
 ### Apache Dubbo — [apache/dubbo-admin](https://github.com/apache/dubbo-admin)  `5 PRs · All Merged ✅`
 
 | PR | 内容 | 状态 |
@@ -35,6 +42,18 @@
 | [#1390](https://github.com/apache/dubbo-admin/pull/1390) | feat: 按 key 实现 counter | ✅ Merged |
 | [#1369](https://github.com/apache/dubbo-admin/pull/1369) | fix: 修复 counter bug | ✅ Merged |
 | [#1345](https://github.com/apache/dubbo-admin/pull/1345) | feat: 在本地缓存中实现 Counter | ✅ Merged |
+
+<a href="https://github.com/apache/dubbo-admin">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=apache&repo=dubbo-admin&theme=react&hide_border=true" alt="apache/dubbo-admin" />
+</a>
+
+### OpenTag — [amplifthq/opentag](https://github.com/amplifthq/opentag)  `PR #70 · Discord 适配器`
+
+为 OpenTag 贡献 Discord 适配器（`/opentag` slash command → 创建 run → 结果回帖到频道），已通过多轮 code review。
+
+<a href="https://github.com/amplifthq/opentag">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amplifthq&repo=opentag&theme=react&hide_border=true" alt="amplifthq/opentag" />
+</a>
 
 ---
 
