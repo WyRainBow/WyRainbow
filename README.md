@@ -49,7 +49,7 @@
 
 ### OpenTag — [amplifthq/opentag](https://github.com/amplifthq/opentag)  `1 PR · Merged ✅`
 
-为 OpenTag 贡献并合入 Discord 适配器 [#70](https://github.com/amplifthq/opentag/pull/70)（`/opentag` slash command → 创建 run → 结果回帖到频道），经多轮 code review 后合入主干。
+为 OpenTag 贡献并合入 Discord 适配器 [#70](https://github.com/amplifthq/opentag/pull/70)（`/opentag` slash command → 创建 run → 结果回帖到频道）。
 
 <a href="https://github.com/amplifthq/opentag">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amplifthq&repo=opentag&theme=react&hide_border=true" alt="amplifthq/opentag" />
