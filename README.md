@@ -33,14 +33,11 @@
   <a href="https://github.com/amplifthq/opentag"><img src="https://img.shields.io/github/stars/amplifthq/opentag?style=for-the-badge&logo=github&logoColor=white&label=amplifthq%2Fopentag&color=181717" alt="amplifthq/opentag stars" /></a>
 </p>
 
-### Apache Dubbo — [apache/dubbo-admin](https://github.com/apache/dubbo-admin)  `5 PRs · All Merged ✅`
+### Apache Dubbo — [apache/dubbo-admin](https://github.com/apache/dubbo-admin)
 
 | PR | 内容 | 状态 |
 |:--|:--|:--:|
 | [#1455](https://github.com/apache/dubbo-admin/pull/1455) | feat(eventbus): 支持按订阅者异步分发 + 优雅 drain | ✅ Merged |
-| [#1393](https://github.com/apache/dubbo-admin/pull/1393) | fix: 为 release/kubernetes 的 YAML 补齐 Apache License 头 | ✅ Merged |
-| [#1390](https://github.com/apache/dubbo-admin/pull/1390) | feat: 按 key 实现 counter | ✅ Merged |
-| [#1369](https://github.com/apache/dubbo-admin/pull/1369) | fix: 修复 counter bug | ✅ Merged |
 | [#1345](https://github.com/apache/dubbo-admin/pull/1345) | feat: 在本地缓存中实现 Counter | ✅ Merged |
 
 <a href="https://github.com/apache/dubbo-admin">
