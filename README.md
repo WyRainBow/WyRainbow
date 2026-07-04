@@ -17,7 +17,7 @@
 ## 🚀 关于我 / About Me
 
 - 🎯 **Go / 后端开发者**，专注分布式服务、中间件与 AI × Backend 应用
-- 🏆 **Apache Dubbo 贡献者** —— 已向 [apache/dubbo-admin](https://github.com/apache/dubbo-admin) 提交 **5 个 PR 全部合入**
+- 🏆 **开源贡献者** —— 为 [Apache Dubbo](https://github.com/apache/dubbo-admin) 与 [OpenTag](https://github.com/amplifthq/opentag) 贡献代码
 - 🌱 正在深入 云原生 / 微服务治理 / LLM Agent 工程
 - 💬 欢迎交流开源、后端架构与 AI 应用
 - 📫 联系我：[weiyu9484@gmail.com](mailto:weiyu9484@gmail.com)
