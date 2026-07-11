@@ -7,7 +7,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=WyRainBow&label=Profile%20views&color=36BCF7&style=flat" alt="profile views" />
   <a href="https://github.com/WyRainBow?tab=followers"><img src="https://img.shields.io/github/followers/WyRainBow?label=Followers&style=flat&color=36BCF7" alt="followers" /></a>
-  <a href="https://github.com/WyRainBow/Resume-Agent"><img src="https://img.shields.io/github/stars/WyRainBow/Resume-Agent?label=Resume-Agent%20Stars&style=flat&color=yellow" alt="stars" /></a>
 </p>
 
 </div>
