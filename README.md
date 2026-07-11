@@ -54,21 +54,7 @@
 
 ---
 
-## 💡 代表项目 / Featured Projects
 
-### 🤖 [Resume-Agent](https://github.com/WyRainBow/Resume-Agent) —— 一句话生成可编辑、可导出的专业简历
-
-- ⭐ **223 Stars** ｜ 🌐 [在线体验 Live Demo](https://resumegenkk.xyz)
-- 🧠 AI 一键生成 + 对话式改简历
-- 📄 LaTeX / HTML 多模板，支持中英文 PDF 导出
-- 🔍 JD 匹配诊断 + 质量评分
-- **Stack:** React · TypeScript · FastAPI · LaTeX
-
-<a href="https://github.com/WyRainBow/Resume-Agent">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WyRainBow&repo=Resume-Agent&theme=react&hide_border=true" alt="Resume-Agent" />
-</a>
-
----
 
 ## 🛠️ 技能 / Tech Stack
 
