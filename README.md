@@ -32,24 +32,7 @@
   <a href="https://github.com/amplifthq/opentag"><img src="https://img.shields.io/github/stars/amplifthq/opentag?style=for-the-badge&logo=github&logoColor=white&label=amplifthq%2Fopentag&color=181717" alt="amplifthq/opentag stars" /></a>
 </p>
 
-### Apache Dubbo — [apache/dubbo-admin](https://github.com/apache/dubbo-admin)
 
-| PR | 内容 | 状态 |
-|:--|:--|:--:|
-| [#1455](https://github.com/apache/dubbo-admin/pull/1455) | feat(eventbus): 支持按订阅者异步分发 + 优雅 drain | ✅ Merged |
-| [#1345](https://github.com/apache/dubbo-admin/pull/1345) | feat: 在本地缓存中实现 Counter | ✅ Merged |
-
-<a href="https://github.com/apache/dubbo-admin">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=apache&repo=dubbo-admin&theme=react&hide_border=true" alt="apache/dubbo-admin" />
-</a>
-
-### OpenTag — [amplifthq/opentag](https://github.com/amplifthq/opentag)  `1 PR · Merged ✅`
-
-为 OpenTag 贡献并合入 Discord 适配器 [#70](https://github.com/amplifthq/opentag/pull/70)（`/opentag` slash command → 创建 run → 结果回帖到频道）。
-
-<a href="https://github.com/amplifthq/opentag">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amplifthq&repo=opentag&theme=react&hide_border=true" alt="amplifthq/opentag" />
-</a>
 
 ---
 
